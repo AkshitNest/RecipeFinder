@@ -1,13 +1,23 @@
-# React + Vite
+# 🍲 Recipe Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Recipe Finder is a React-based web app that helps users search for recipes using the **Spoonacular API**.  
+It provides a simple, responsive, and card-style UI where users can explore recipe details, ingredients, and cooking instructions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔍 Search recipes by ingredient or dish name  
+- 📜 View full recipe details (ingredients, instructions, nutrition info)  
+- 📱 Responsive card-style UI (mobile + desktop)  
+- ❤️ Save favorite recipes (local storage)  
+- 🔗 Direct link to recipe source  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# RecipeFinder
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite + JavaScript  
+- **Styling:** CSS / Tailwind (responsive design)  
+- **API:** Spoonacular API  
+- **Deployment:** Vercel / Netlify  
+
+---
